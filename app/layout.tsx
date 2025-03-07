@@ -6,8 +6,8 @@ import type React from "react" // Added import for React
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "智能门锁套件 - 推门既入 智慧如影随形",
-  description: "为您的宿舍带来智能、安全、便捷的门锁解决方案",
+  title: "Freedorm 随心锁域-官方网站",
+  description: "推门既入 智慧如影随形",
 }
 
 export default function RootLayout({
@@ -17,6 +17,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="zh">
+      <head>
+        <link rel="icon" href="/freedorm_mini_logo.ico" sizes="any" />
+      </head>
       <body className={inter.className}>{children}</body>
     </html>
   )

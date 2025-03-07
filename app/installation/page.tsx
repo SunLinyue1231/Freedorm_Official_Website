@@ -114,8 +114,15 @@ export default function InstallationGuide() {
                 transition={{ duration: 0.5, delay: index * 0.1 }}
                 className="card overflow-hidden"
               >
-                <div className="relative h-48">
-                  <Image src={step.image || "/placeholder.svg"} alt={step.title} fill className="object-cover" />
+                <div className="aspect-w-16 aspect-h-9 w-full">
+                  <Image
+                    src={step.image || "/placeholder.svg"}
+                    alt={step.title}
+                    layout="responsive"
+                    width={1600}
+                    height={900}
+                    className="rounded-t-lg object-cover"
+                  />
                 </div>
                 <div className="p-6">
                   <h3 className="text-xl font-bold mb-2 flex items-center">
