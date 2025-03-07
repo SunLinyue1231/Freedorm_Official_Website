@@ -6,14 +6,14 @@ import { motion } from "framer-motion"
 const models = [
   {
     fullname: "Freedorm Basic",
-    name: "Lite",
+    name: "Basic",
     price: "¥24.99",
     link: "https://item.taobao.com/item.htm?ft=t&id=875000927536",
     features: ["蓝牙靠近解锁", "六年超长售后", "简洁按钮解锁", "直观交互灯效"],
   },
   {
     fullname: "Freedorm Pro",
-    name: "Basic",
+    name: "Pro",
     price: "¥39.99",
     link: "https://item.taobao.com/item.htm?ft=t&id=875000927536",
     features: [
