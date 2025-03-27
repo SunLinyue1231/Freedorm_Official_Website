@@ -19,8 +19,8 @@ const teamMembers = [
     role: "首席技术官 & 后端开发",
     image: "/placeholder.svg?height=400&width=400",
     description: "马哥是一位经验丰富的软件工程师，负责Freedorm的整体架构设计、服务部署以及后端开发。",
-    github: "https://github.com/username2",
-    email: "example2@example.com",
+    github: "https://github.com/maxinglo",
+    email: "ma2965346066@gmail.com",
   },
   {
     name: "孙林樾",

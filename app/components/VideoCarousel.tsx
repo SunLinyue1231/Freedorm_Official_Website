@@ -6,12 +6,14 @@ import { ChevronLeft, ChevronRight } from "lucide-react"
 
 const videos = [
   {
-    src: "https://player.bilibili.com/player.html?aid=113950347887171&bvid=BV1GLPyejEVz&cid=28225831739&p=1&high_quality=1&autoplay=0",
-    title: "视频演示 1",
+
+    src: "https://player.bilibili.com/player.html?isOutside=true&aid=114114714211927&bvid=BV12cRPYcEcK&cid=28719714257&p=1&high_quality=1&autoplay=0",
+    title: "痛点展示",
   },
   {
-    src: "https://player.bilibili.com/player.html?aid=113950347759176&bvid=BV1hLPyeLEny&cid=28225636916&p=1&high_quality=1&autoplay=0",
-    title: "视频演示 2",
+
+    src: "https://player.bilibili.com/player.html?isOutside=true&aid=114114479330491&bvid=BV146RPYeEgb&cid=28719714073&p=1&high_quality=1&autoplay=0",
+    title: "功能展示",
   },
 ]
 
