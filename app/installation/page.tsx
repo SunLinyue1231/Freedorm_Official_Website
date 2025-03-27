@@ -44,7 +44,7 @@ const installationSteps = [
   {
     title: "连接桥接板-1",
     description: "将桥接板较短一条排线的公头插入到刚刚拔下的母头上",
-    image: "https://s1.locimg.com/2025/02/15/0bd4b4232b871.jpg",
+    image: "https://s1.locimg.com/2025/03/27/c388f021cf001.jpg",
   },
   {
     title: "连接桥接板-2",
@@ -63,7 +63,7 @@ const installationSteps = [
   },
   {
     title: "装回门外锁体和黑色铁皮",
-    description: "将门外锁体部分和黑色铁皮按原样装回门上，桥接板的长排线需穿过黑色铁皮最上方的方孔",
+    description: "将门外锁体部分和黑色铁皮按原样装回门上，桥接板的长排线需穿过黑色铁皮最上方的方孔。注意锁芯需要水平",
     image: "https://s1.locimg.com/2025/02/15/2f961118e8f94.jpg",
   },
   {
@@ -84,7 +84,7 @@ const installationSteps = [
   {
     title: "固定Freedorm锁体",
     description: "将锁体装到银色锁壳上，拧上最先从原来锁壳上拆下的螺丝，即安装完成",
-    image: "https://s1.locimg.com/2025/02/15/51e8ae0c8f49d.jpg",
+    image: "https://s1.locimg.com/2025/03/27/1834f9684d229.jpg",
   },
 ]
 
