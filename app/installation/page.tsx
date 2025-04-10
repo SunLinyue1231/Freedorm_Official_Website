@@ -179,7 +179,7 @@ export default function InstallationGuide() {
             <h2 className="text-3xl font-bold text-primary mb-8">安装视频教程</h2>
             <div className="aspect-video">
               <iframe
-                src="https://www.bilibili.com/video/BV1iEZ3YkEn5/?spm_id_from=333.337.search-card.all.click"
+                src="https://player.bilibili.com/player.html?bvid=BV1iEZ3YkEn5&autoplay=1"
                 className="w-full h-[600px] rounded-lg shadow-lg"
                 scrolling="no"
                 border="0"
