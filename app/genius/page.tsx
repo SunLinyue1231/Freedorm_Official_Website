@@ -17,7 +17,7 @@ const teamMembers = [
   {
     name: "maxing",
     role: "首席技术官 & 后端开发",
-    image: "/placeholder.svg?height=400&width=400",
+    image: "https://s1.locimg.com/2025/04/10/b83a02d79fd37.jpg",
     description: "马哥是一位经验丰富的软件工程师，负责Freedorm的整体架构设计、服务部署以及后端开发。",
     github: "https://github.com/maxinglo",
     email: "ma2965346066@gmail.com",
@@ -25,18 +25,18 @@ const teamMembers = [
   {
     name: "孙林樾",
     role: "设计总监",
-    image: "/placeholder.svg?height=400&width=400",
+    image: "https://s1.locimg.com/2025/04/10/0fbf53f474882.jpg",
     description: "孙是一位才华横溢的工业设计师，负责Freedorm的品牌建设、产品设计和用户体验。",
     dribbble: "https://dribbble.com/username3",
-    email: "example3@example.com",
+    email: "2392235744@qq.com",
   },
   {
     name: "张子木",
     role: "前端总监 & 微信小程序开发",
-    image: "/placeholder.svg?height=400&width=400",
+    image: "https://s1.locimg.com/2025/04/10/39a06f005fbd8.jpg",
     description: "承担了小程序端的所有开发工作，是Freedorm微信小程序的核心技术力量。",
     github: "https://github.com/username4",
-    email: "example4@example.com",
+    email: "1627264565@qq.com",
   },
 ]
 
