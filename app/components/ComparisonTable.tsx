@@ -8,14 +8,14 @@ const models = [
     fullname: "Freedorm Basic",
     name: "Basic",
     price: "¥24.99",
-    link: "https://item.taobao.com/item.htm?ft=t&id=875000927536",
+    link: "https://item.taobao.com/item.htm?abbucket=16&detail_redpacket_pop=true&id=904517416629&ltk2=1744278037516hx84u1dsoxrcfixolr4r8w&ns=1&priceTId=2147811117442780287188150e1160&query=Freedorm&skuId=5930856247056&spm=a21n57.1.hoverItem.3&utparam=%7B%22aplus_abtest%22%3A%22db58828a202f37c2e8a57eef3d98aef4%22%7D&xxc=taobaoSearch",
     features: ["蓝牙靠近解锁", "六年超长售后", "简洁按钮解锁", "直观交互灯效"],
   },
   {
     fullname: "Freedorm Pro",
     name: "Pro",
     price: "¥39.99",
-    link: "https://item.taobao.com/item.htm?ft=t&id=875000927536",
+    link: "https://item.taobao.com/item.htm?abbucket=16&detail_redpacket_pop=true&id=875000927536&ltk2=1744278783618xg0b1blqgzq9zah4j2o9&ns=1&priceTId=2147811117442780287188150e1160&query=Freedorm&skuId=5762262432574&spm=a21n57.1.hoverItem.2&utparam=%7B%22aplus_abtest%22%3A%228cebce7fc1912658b940f49dfb3be8ad%22%7D&xxc=taobaoSearch",
     features: [
       "蓝牙靠近解锁",
       "六年超长售后",
