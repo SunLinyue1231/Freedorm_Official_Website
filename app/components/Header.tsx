@@ -38,7 +38,7 @@ export default function Header() {
             主创团队
           </Link>
           <a
-            href="https://item.taobao.com/item.htm?ft=t&id=875000927536"
+            href="https://shop469175341.taobao.com/?spm=pc_detail.29232929/evo365560b447259.shop_block.dshopinfo.4a927dd6jfG5pS"
             target="_blank"
             rel="noopener noreferrer"
             className="button button-primary text-sm"
